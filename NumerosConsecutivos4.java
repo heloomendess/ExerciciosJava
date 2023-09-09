@@ -19,5 +19,3 @@ public class NumerosConsecutivos4 {
         input.close();
     }
 }
-
-// refazerrrrr  tá erradooooooooo
